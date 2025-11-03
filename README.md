@@ -1,9 +1,9 @@
-# Otsu Segmentation and Morphological Operations (PCD Assignment 03)
+# Otsu Segmentation and Morphological Operations 
 
 This project implements the Otsu thresholding segmentation method and morphological operations — including erosion, dilation, and opening — using pure Python, without any built-in image processing libraries.
 It compares segmentation results before and after applying morphological processing to demonstrate how these operations improve image clarity and boundary definition.
 
-## 🧩 Features
+## Features
 
 1. Otsu’s Thresholding (manual implementation)
 2. Binary Erosion, Dilation, and Opening
