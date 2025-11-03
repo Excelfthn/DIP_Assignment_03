@@ -15,7 +15,6 @@ It compares segmentation results before and after applying morphological process
 1. NumPy → matrix operations
 2. PIL (Pillow) → image loading & grayscale conversion
 3. Matplotlib → visualization
-All segmentation and morphological operations are implemented manually, without using libraries such as OpenCV or scikit-image.
 
 ## Key Concepts
 
